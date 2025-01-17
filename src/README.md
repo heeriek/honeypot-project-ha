@@ -18,4 +18,4 @@ This project implements a **honeypot** system designed for detecting and logging
 1. **Clone the Repository**:
    Clone this repository to your local machine (if you haven't already).
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/heeriek/honeypot-project-ha.git
