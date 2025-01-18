@@ -13,7 +13,7 @@
     <link rel="stylesheet" href="chrome://browser/content/contentSearchUI.css" />
     <link rel="stylesheet" href="chrome://activity-stream/content/css/activity-stream.css" />
   </head>
-  <!-- Cached: Fri, 17 Jan 2025 16:26:37 GMT -->
+  <!-- Cached: Fri, 17 Jan 2025 19:04:10 GMT -->
   <body class="activity-stream">
     <div id="header-asrouter-container" role="presentation"></div>
     <div id="root">
@@ -35,14 +35,14 @@ window.__STARTUP_STATE__ = {
 		"rows": [
 			{
 				"isDefault": true,
-				"url": "https://s.click.aliexpress.com/e/byrlillA?af=amp1250&dp=138670595072077824&mfadid=adm",
+				"url": "https://s.click.aliexpress.com/e/byrlillA?af=amp1250&dp=138710273028534272&mfadid=adm",
 				"hostname": "s.click.aliexpress",
 				"sendAttributionRequest": false,
 				"label": "AliExpress",
 				"show_sponsored_label": true,
 				"sponsored_position": 1,
-				"sponsored_click_url": "https://bridge.sfo1.admarketplace.net/ctp?version=1.0.0&encp=jnEYxmwVJQkX5QbUftINI%3DwqgClnxGEkgClrfZxXfQLa4pHY4pHnx%3D8zfCbW5QbnjG3vgClnjFjvgC8nJG4kxczvI9LzftIojmwqgCfd1p8a1CbZfBIXjFEYsFwqgClZ1pHrfpD_4CbrfQbr4ZLY4tIuxr3kgCbnxR3OJpdnHFXZIBIWj93vIpkW7n3WHmwqgCbnHr3_iF2zfClnHr7wiF2zfCbYfYIWJ%3DwqgClWfpxnI94WHnwqgClW1pDnI94WHF3miF2zfCbW4YIqxreNjF3miF2zfCHYfYIqxrevJmwqgClW1CxnHF3ZJ%3DwqgClZ1pHrfpD_4Cba4pHd4QHr4BIZJ%3DzkJREugClnIF_EDqWzClNefmIFE%3DLaEZHrJnIYxmwdJDvgiBDY2Rc5fRwR1cweJr3VjCw1xlx_F%3DHrjm42FFjZsDd6FDTdslEvi%3DIVsGvvFn4W4DWZsRjGJn7C3n_vjml_x%3DTki%3DN77C7tCDkwfqI8HE7_1lE3ImuDDkv6ilEYjdDXJdv57C7tDpjQ4rNdI9vHiYDY3w3vscxZiGvI4wwNDnAwfk2nxR3VxZkS1Y%2FM6QTS7nwvHZkufCTufCTufCTufCTufBIQxpkW5QbXfpbTftWXfQDm5pbTftWXfpbr5tWT5tXkiFXwxrbTHncQimIvJ%3DXKHmzUI9EQiGIw",
-				"sponsored_impression_url": "https://imp.mt48.net/static?id=7RHzfOIXjFEYsBdvIpkXfZLm4Zbd1CDW4Z8W4ZxafQ2nj9wWIBdvIpkY7n4YIFckiGIw5FwqgClWfQfnx%3DXNHmEuIF%2Bk5FwqgClWfpxnHF2uxmETIF4kiFzU5FwqgClZ1pHrfpD%2B4Cba4pHd4QHr4BIZJ%3Dzk5F%2BdJF7wxQkX",
+				"sponsored_click_url": "https://bridge.sfo1.admarketplace.net/ctp?version=1.0.0&encp=jnEYxmwVJQkX5QbUftINI%3DwqgClnxGEkgClrfZxXfZLZfpHYfpLnx%3D8zfCbW5QbnjG3vgC8njFjvgC8nJG4kxczvI9LzftIojmwqgCfd1p8a1CbZfBIXjFEYsFwqgClZ1pxXfp8rfZbY1pDZ4p8rfOIuxr3kgCbnxR3OJpdnHFXZIBIWj93vIpkW7n3WHmwqgCbnHr3_iF2zfClnHr7wiF2zfCbYfYIWJ%3DwqgClWfpxnI94WHnwqgClW1pDnI94WHF3miF2zfCbW4YIqxreNjF3miF2zfCHYfYIqxrevJmwqgClW1CxnHF3ZJ%3DwqgClZ1pxXfp8rfZbk4CfXfCDYfYIZJ%3DzkJREugClnIF_EDqWzClNefmIFE%3DLaEZHrJnIYxmwdJDvgiBDY2Rc5fRwR1cweJr3VjCw1xlx_F%3DHrjm42FFjZsDd6FDTdslEvi%3DIVsGvvFn4W4DWZsRjGJwweCk4ispII7C7tBcvRi%3Dc41Gw32qcNJQcWHn3ajrLkJnNoxRjEfFziBYDY2wbrHZjajF3PF%3DTwfqIDiGNGfmwPFCIIHE7V7C4l7R7kJrfz6QTS1Y%2FM6OIviFfz5ClM5ClM5ClM5ClM5ClnHrbzftaWfCbW5pbTfC8d4OWW5pbTfCbW4YWT5tWTj%3DwTIG4W5%3D7NHmuniFXTGm4VJn3dHmwmI2yy",
+				"sponsored_impression_url": "https://imp.mt48.net/static?id=7RHzfOIXjFEYsBdvIpkXfZLrfCbY4ZfWfQLdfZ2Y4Z8nj9wWIBdvIpkY7n4YIFckiGIw5FwqgClWfQfnx%3DXNHmEuIF%2Bk5FwqgClWfpxnHF2uxmETIF4kiFzU5FwqgClZ1pxXfp8rfZbk4CfXfCDYfYIZJ%3Dzk5F%2BdJF7wxQkX",
 				"sponsored_tile_id": 74343,
 				"partner": "amp",
 				"favicon": "https://ads-img.mozilla.org/v1/images?image_data=Cj0KO2h0dHBzOi8vYW1wLWFzc2V0LjQ1dHUxYzAuY29tL2Fzc2V0cy8xMDA3LzE1MjEyMjgwODcxOTYuanBnEiCK8eHWPUd7kKvukZD1dFY5pGGPDzCfUf6dE6HDSMNAEQ",
@@ -51,13 +51,13 @@ window.__STARTUP_STATE__ = {
 			},
 			{
 				"bookmarkGuid": null,
-				"frecency": 2000,
+				"frecency": 4000,
 				"guid": "1CuagiDSBnFy",
-				"lastVisitDate": 1737126633606,
+				"lastVisitDate": 1737140062178,
 				"title": null,
 				"url": "http://127.0.0.1:8080/",
 				"type": "history",
-				"screenshot": "moz-page-thumb://thumbnails/?url=http%3A%2F%2F127.0.0.1%3A8080%2F&revision=463",
+				"screenshot": "moz-page-thumb://thumbnails/?url=http%3A%2F%2F127.0.0.1%3A8080%2F&revision=549",
 				"hostname": "127.0.0.1",
 				"typedBonus": true
 			},
@@ -173,14 +173,14 @@ window.__STARTUP_STATE__ = {
 		"links": [
 			{
 				"isDefault": true,
-				"url": "https://s.click.aliexpress.com/e/byrlillA?af=amp1250&dp=138670595072077824&mfadid=adm",
+				"url": "https://s.click.aliexpress.com/e/byrlillA?af=amp1250&dp=138710273028534272&mfadid=adm",
 				"hostname": "s.click.aliexpress",
 				"sendAttributionRequest": false,
 				"label": "AliExpress",
 				"show_sponsored_label": true,
 				"sponsored_position": 1,
-				"sponsored_click_url": "https://bridge.sfo1.admarketplace.net/ctp?version=1.0.0&encp=jnEYxmwVJQkX5QbUftINI%3DwqgClnxGEkgClrfZxXfQLa4pHY4pHnx%3D8zfCbW5QbnjG3vgClnjFjvgC8nJG4kxczvI9LzftIojmwqgCfd1p8a1CbZfBIXjFEYsFwqgClZ1pHrfpD_4CbrfQbr4ZLY4tIuxr3kgCbnxR3OJpdnHFXZIBIWj93vIpkW7n3WHmwqgCbnHr3_iF2zfClnHr7wiF2zfCbYfYIWJ%3DwqgClWfpxnI94WHnwqgClW1pDnI94WHF3miF2zfCbW4YIqxreNjF3miF2zfCHYfYIqxrevJmwqgClW1CxnHF3ZJ%3DwqgClZ1pHrfpD_4Cba4pHd4QHr4BIZJ%3DzkJREugClnIF_EDqWzClNefmIFE%3DLaEZHrJnIYxmwdJDvgiBDY2Rc5fRwR1cweJr3VjCw1xlx_F%3DHrjm42FFjZsDd6FDTdslEvi%3DIVsGvvFn4W4DWZsRjGJn7C3n_vjml_x%3DTki%3DN77C7tCDkwfqI8HE7_1lE3ImuDDkv6ilEYjdDXJdv57C7tDpjQ4rNdI9vHiYDY3w3vscxZiGvI4wwNDnAwfk2nxR3VxZkS1Y%2FM6QTS7nwvHZkufCTufCTufCTufCTufBIQxpkW5QbXfpbTftWXfQDm5pbTftWXfpbr5tWT5tXkiFXwxrbTHncQimIvJ%3DXKHmzUI9EQiGIw",
-				"sponsored_impression_url": "https://imp.mt48.net/static?id=7RHzfOIXjFEYsBdvIpkXfZLm4Zbd1CDW4Z8W4ZxafQ2nj9wWIBdvIpkY7n4YIFckiGIw5FwqgClWfQfnx%3DXNHmEuIF%2Bk5FwqgClWfpxnHF2uxmETIF4kiFzU5FwqgClZ1pHrfpD%2B4Cba4pHd4QHr4BIZJ%3Dzk5F%2BdJF7wxQkX",
+				"sponsored_click_url": "https://bridge.sfo1.admarketplace.net/ctp?version=1.0.0&encp=jnEYxmwVJQkX5QbUftINI%3DwqgClnxGEkgClrfZxXfZLZfpHYfpLnx%3D8zfCbW5QbnjG3vgC8njFjvgC8nJG4kxczvI9LzftIojmwqgCfd1p8a1CbZfBIXjFEYsFwqgClZ1pxXfp8rfZbY1pDZ4p8rfOIuxr3kgCbnxR3OJpdnHFXZIBIWj93vIpkW7n3WHmwqgCbnHr3_iF2zfClnHr7wiF2zfCbYfYIWJ%3DwqgClWfpxnI94WHnwqgClW1pDnI94WHF3miF2zfCbW4YIqxreNjF3miF2zfCHYfYIqxrevJmwqgClW1CxnHF3ZJ%3DwqgClZ1pxXfp8rfZbk4CfXfCDYfYIZJ%3DzkJREugClnIF_EDqWzClNefmIFE%3DLaEZHrJnIYxmwdJDvgiBDY2Rc5fRwR1cweJr3VjCw1xlx_F%3DHrjm42FFjZsDd6FDTdslEvi%3DIVsGvvFn4W4DWZsRjGJwweCk4ispII7C7tBcvRi%3Dc41Gw32qcNJQcWHn3ajrLkJnNoxRjEfFziBYDY2wbrHZjajF3PF%3DTwfqIDiGNGfmwPFCIIHE7V7C4l7R7kJrfz6QTS1Y%2FM6OIviFfz5ClM5ClM5ClM5ClM5ClnHrbzftaWfCbW5pbTfC8d4OWW5pbTfCbW4YWT5tWTj%3DwTIG4W5%3D7NHmuniFXTGm4VJn3dHmwmI2yy",
+				"sponsored_impression_url": "https://imp.mt48.net/static?id=7RHzfOIXjFEYsBdvIpkXfZLrfCbY4ZfWfQLdfZ2Y4Z8nj9wWIBdvIpkY7n4YIFckiGIw5FwqgClWfQfnx%3DXNHmEuIF%2Bk5FwqgClWfpxnHF2uxmETIF4kiFzU5FwqgClZ1pxXfp8rfZbk4CfXfCDYfYIZJ%3Dzk5F%2BdJF7wxQkX",
 				"sponsored_tile_id": 74343,
 				"partner": "amp",
 				"favicon": "https://ads-img.mozilla.org/v1/images?image_data=Cj0KO2h0dHBzOi8vYW1wLWFzc2V0LjQ1dHUxYzAuY29tL2Fzc2V0cy8xMDA3LzE1MjEyMjgwODcxOTYuanBnEiCK8eHWPUd7kKvukZD1dFY5pGGPDzCfUf6dE6HDSMNAEQ",
@@ -189,13 +189,13 @@ window.__STARTUP_STATE__ = {
 			},
 			{
 				"bookmarkGuid": null,
-				"frecency": 2000,
+				"frecency": 4000,
 				"guid": "1CuagiDSBnFy",
-				"lastVisitDate": 1737126633606,
+				"lastVisitDate": 1737140062178,
 				"title": null,
 				"url": "http://127.0.0.1:8080/",
 				"type": "history",
-				"screenshot": "moz-page-thumb://thumbnails/?url=http%3A%2F%2F127.0.0.1%3A8080%2F&revision=463",
+				"screenshot": "moz-page-thumb://thumbnails/?url=http%3A%2F%2F127.0.0.1%3A8080%2F&revision=549",
 				"hostname": "127.0.0.1",
 				"typedBonus": true
 			},
@@ -261,7 +261,7 @@ window.__STARTUP_STATE__ = {
 		"initialized": true,
 		"values": {
 			"default.sites": "https://www.youtube.com/,https://www.facebook.com/,https://www.wikipedia.org/,https://www.reddit.com/,https://www.amazon.com/,https://twitter.com/",
-			"feeds.section.topstories.options": "{\"api_key_pref\":\"extensions.pocket.oAuthConsumerKey\",\"hidden\":true,\"provider_icon\":\"chrome://global/skin/icons/pocket.svg\",\"provider_name\":\"Pocket\",\"read_more_endpoint\":\"https://getpocket.com/explore/trending?src=fx_new_tab\",\"stories_endpoint\":\"https://getpocket.cdn.mozilla.net/v3/firefox/global-recs?version=3&consumer_key=$apiKey&locale_lang=en-US&feed_variant=default_spocs_off\",\"stories_referrer\":\"https://getpocket.com/recommendations\",\"topics_endpoint\":\"https://getpocket.cdn.mozilla.net/v3/firefox/trending-topics?version=2&consumer_key=$apiKey&locale_lang=en-US\",\"show_spocs\":false}",
+			"feeds.section.topstories.options": "{\"api_key_pref\":\"extensions.pocket.oAuthConsumerKey\",\"hidden\":false,\"provider_icon\":\"chrome://global/skin/icons/pocket.svg\",\"provider_name\":\"Pocket\",\"read_more_endpoint\":\"https://getpocket.com/explore/trending?src=fx_new_tab\",\"stories_endpoint\":\"https://getpocket.cdn.mozilla.net/v3/firefox/global-recs?version=3&consumer_key=$apiKey&locale_lang=en-US&feed_variant=default_spocs_off\",\"stories_referrer\":\"https://getpocket.com/recommendations\",\"topics_endpoint\":\"https://getpocket.cdn.mozilla.net/v3/firefox/trending-topics?version=2&consumer_key=$apiKey&locale_lang=en-US\",\"show_spocs\":false}",
 			"feeds.topsites": true,
 			"hideTopSitesTitle": false,
 			"showSponsored": true,
@@ -329,6 +329,7 @@ window.__STARTUP_STATE__ = {
 			"feeds.weatherfeed": true,
 			"isPrivateBrowsingEnabled": true,
 			"platform": "linux",
+			"region": "IN",
 			"fxa_endpoint": "https://accounts.firefox.com/",
 			"appUpdateChannel": "esr",
 			"improvesearch.topSiteSearchShortcuts": true,
@@ -394,8 +395,7 @@ window.__STARTUP_STATE__ = {
 			"discoverystream.personalization.modelKeys": "nb_model_arts_and_entertainment, nb_model_autos_and_vehicles, nb_model_beauty_and_fitness, nb_model_blogging_resources_and_services, nb_model_books_and_literature, nb_model_business_and_industrial, nb_model_computers_and_electronics, nb_model_finance, nb_model_food_and_drink, nb_model_games, nb_model_health, nb_model_hobbies_and_leisure, nb_model_home_and_garden, nb_model_internet_and_telecom, nb_model_jobs_and_education, nb_model_law_and_government, nb_model_online_communities, nb_model_people_and_society, nb_model_pets_and_animals, nb_model_real_estate, nb_model_reference, nb_model_science, nb_model_shopping, nb_model_sports, nb_model_travel",
 			"discoverystream.spocs-endpoint": "",
 			"discoverystream.spocs-endpoint-query": "",
-			"newNewtabExperience.colors": "#0090ED,#FF4F5F,#2AC3A2,#FF7139,#A172FF,#FFA437,#FF2A8A",
-			"region": "IN"
+			"newNewtabExperience.colors": "#0090ED,#FF4F5F,#2AC3A2,#FF7139,#A172FF,#FFA437,#FF2A8A"
 		}
 	},
 	"Dialog": {
@@ -427,7 +427,7 @@ window.__STARTUP_STATE__ = {
 				"collapsed": false,
 				"feed": "feeds.section.topstories"
 			},
-			"shouldHidePref": true,
+			"shouldHidePref": false,
 			"eventSource": "TOP_STORIES",
 			"icon": "chrome://global/skin/icons/pocket.svg",
 			"learnMore": {
@@ -462,7 +462,7 @@ window.__STARTUP_STATE__ = {
 			],
 			"options": {
 				"api_key_pref": "extensions.pocket.oAuthConsumerKey",
-				"hidden": true,
+				"hidden": false,
 				"provider_icon": "chrome://global/skin/icons/pocket.svg",
 				"provider_name": "Pocket",
 				"read_more_endpoint": "https://getpocket.com/explore/trending?src=fx_new_tab",
@@ -646,7 +646,7 @@ window.__STARTUP_STATE__ = {
 						},
 						"feed": {
 							"embed_reference": null,
-							"url": "https://getpocket.cdn.mozilla.net/v3/firefox/global-recs?version=3&consumer_key=$apiKey&locale_lang=$locale&region=$region&count=30"
+							"url": "https://firefox-api-proxy.cdn.mozilla.net/desktop/v1/recommendations?locale=$locale&region=$region&count=30"
 						},
 						"spocs": {
 							"probability": 1,
@@ -740,7 +740,7 @@ window.__STARTUP_STATE__ = {
 		},
 		"spocs": {
 			"spocs_endpoint": "https://spocs.getpocket.com/spocs",
-			"lastUpdated": 1737129990909,
+			"lastUpdated": 1737140088535,
 			"data": {
 				"settings": {
 					"feature_flags": {
@@ -880,4 +880,4 @@ window.__STARTUP_STATE__ = {
 	}
 };
 
-ÚÊÒ\d◊           gäÑΩGƒÎ(ˇˇˇˇ       :about:home alt-data 1;10611,script version 20241118130310   ñù
+˝}UQ           gä©™G≈¿ˇˇˇˇ       :about:home alt-data 1;10611,script version 20241118130310   ñà

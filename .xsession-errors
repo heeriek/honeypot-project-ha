@@ -37,53 +37,25 @@ dbus-update-activation-environment: setting GDMSESSION=lightdm-xsession
 dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
 dbus-update-activation-environment: setting _JAVA_OPTIONS=-Dawt.useSystemAAFontSettings=on -Dswing.aatext=true
 dbus-update-activation-environment: setting _=/usr/bin/dbus-update-activation-environment
-** Message: 11:29:48.292: Failed to fetch _NET_NUMBER_OF_DESKTOPS; assuming 1
-** Message: 11:29:48.293: Failed to get _NET_WORKAREA; using full screen dimensions
-** Message: 11:29:48.294: Failed to fetch _NET_CURRENT_DESKTOP; assuming 0
-** Message: 11:29:48.295: Failed to fetch _NET_CURRENT_DESKTOP; assuming 0
+** Message: 00:49:21.967: Failed to fetch _NET_NUMBER_OF_DESKTOPS; assuming 1
+** Message: 00:49:21.968: Failed to get _NET_WORKAREA; using full screen dimensions
+** Message: 00:49:21.969: Failed to fetch _NET_CURRENT_DESKTOP; assuming 0
+** Message: 00:49:21.969: Failed to fetch _NET_CURRENT_DESKTOP; assuming 0
 /usr/bin/iceauth:  creating new authority file /run/user/1000/ICEauthority
 gpg-agent: a gpg-agent is already running - not starting a new one
-** Message: 11:29:48.698: Failed to fetch _NET_CURRENT_DESKTOP; assuming 0
-** Message: 11:29:49.256: Failed to fetch _NET_CURRENT_DESKTOP; assuming 0
+** Message: 00:49:22.392: Failed to fetch _NET_CURRENT_DESKTOP; assuming 0
+** Message: 00:49:23.020: Failed to fetch _NET_CURRENT_DESKTOP; assuming 0
 
-(xfwm4:1006): xfwm4-WARNING **: 11:29:49.774: Unsupported GL renderer (llvmpipe (LLVM 19.1.4, 128 bits)).
-** Message: 11:29:52.830: Unable to migrate old setting /backdrop/screen0/monitor3/image-style; monitor 3 is not currently attached
-** Message: 11:29:52.831: Unable to migrate old setting /backdrop/screen0/monitor1/color-style; monitor 1 is not currently attached
-** Message: 11:29:52.833: Unable to migrate old setting /backdrop/screen0/monitor1/image-show; monitor 1 is not currently attached
-** Message: 11:29:52.842: Unable to migrate old setting /backdrop/screen0/monitor2/image-show; monitor 2 is not currently attached
-** Message: 11:29:52.846: Unable to migrate /backdrop/screen0/monitor0/color1 to RGBA as it contains invalid data
-** Message: 11:29:52.859: Unable to migrate old setting /backdrop/screen0/monitor3/image-show; monitor 3 is not currently attached
-** Message: 11:29:52.859: Unable to migrate old setting /backdrop/screen0/monitor1/image-path; monitor 1 is not currently attached
-** Message: 11:29:52.860: Unable to migrate old setting /backdrop/screen0/monitor2/image-path; monitor 2 is not currently attached
-** Message: 11:29:52.861: Unable to migrate old setting /backdrop/screen0/monitor2/image-style; monitor 2 is not currently attached
-** Message: 11:29:52.861: Unable to migrate old setting /backdrop/screen0/monitor4/image-path; monitor 4 is not currently attached
-** Message: 11:29:52.862: Unable to migrate old setting /backdrop/screen0/monitor4/image-show; monitor 4 is not currently attached
-** Message: 11:29:52.866: Unable to migrate old setting /backdrop/screen0/monitor1/color1; monitor 1 is not currently attached
-** Message: 11:29:52.868: Unable to migrate /backdrop/screen0/monitor0/color2 to RGBA as it contains invalid data
-** Message: 11:29:52.871: Unable to migrate old setting /backdrop/screen0/monitor1/last-single-image; monitor 1 is not currently attached
-** Message: 11:29:52.876: Unable to migrate old setting /backdrop/screen0/monitor1/image-style; monitor 1 is not currently attached
-** Message: 11:29:52.881: Unable to migrate old setting /backdrop/screen0/monitor1/color2; monitor 1 is not currently attached
-** Message: 11:29:52.887: Unable to migrate old setting /backdrop/screen0/monitor3/image-path; monitor 3 is not currently attached
-** Message: 11:29:52.896: Unable to migrate old setting /backdrop/screen0/monitor1/last-image; monitor 1 is not currently attached
-** Message: 11:29:52.898: Unable to migrate old setting /backdrop/screen0/monitor4/image-style; monitor 4 is not currently attached
-** Message: 11:29:52.926: Unable to migrate old setting /backdrop/screen0/monitor1/brightness; monitor 1 is not currently attached
-Failure: No such entity
+(xfwm4:1097): xfwm4-WARNING **: 00:49:23.532: Unsupported GL renderer (llvmpipe (LLVM 19.1.4, 128 bits)).
+
+(polkit-mate-authentication-agent-1:1201): GLib-CRITICAL **: 00:49:26.612: g_variant_new_string: assertion 'string != NULL' failed
+
+(polkit-mate-authentication-agent-1:1201): polkit-mate-1-WARNING **: 00:49:26.625: Failed to register client: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
 /usr/bin/pkcs11-register: option '--skip-chrome' doesn't allow an argument
+Failure: No such entity
 
-(polkit-mate-authentication-agent-1:1127): GLib-CRITICAL **: 11:29:53.710: g_variant_new_string: assertion 'string != NULL' failed
-
-(polkit-mate-authentication-agent-1:1127): polkit-mate-1-WARNING **: 11:29:53.725: Failed to register client: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
-
-** (xiccd:1132): WARNING **: 11:29:54.099: EDID is empty
+** (xiccd:1204): WARNING **: 00:49:27.846: EDID is empty
 Cannot register authentication agent: GDBus.Error:org.freedesktop.PolicyKit1.Error.Failed: An authentication agent already exists for the given subject
-blueman-applet 11.29.56 WARNING  PluginManager:150 __load_plugin: Not loading PPPSupport because its conflict has higher priority
-blueman-applet 11.29.56 WARNING  PluginManager:150 __load_plugin: Not loading DhcpClient because its conflict has higher priority
-blueman-applet 11.29.56 WARNING  DiscvManager:122 update_menuitems: warning: Adapter is None
-
-** (xiccd:1132): WARNING **: 12:20:03.814: EDID is empty
-
-** (xiccd:1132): WARNING **: 12:20:03.972: EDID is empty
-
-** (xiccd:1132): WARNING **: 12:27:56.800: EDID is empty
-
-** (xiccd:1132): WARNING **: 12:27:57.245: EDID is empty
+blueman-applet 00.49.30 WARNING  PluginManager:150 __load_plugin: Not loading PPPSupport because its conflict has higher priority
+blueman-applet 00.49.30 WARNING  PluginManager:150 __load_plugin: Not loading DhcpClient because its conflict has higher priority
+blueman-applet 00.49.30 WARNING  DiscvManager:122 update_menuitems: warning: Adapter is None
